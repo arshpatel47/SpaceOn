@@ -1,0 +1,87 @@
+﻿
+@media screen and (max-width: 1200px)  {
+    .main
+    {
+        width:94%;
+    }
+
+    .menu ul li a
+    {
+        padding:0 8px;
+        font-size:16px;
+    }
+
+}
+
+@media screen and (max-width: 1000px) {
+
+    .header-inner .logo {
+   
+    float: none;
+}
+
+
+    .menu{
+        float:none;
+        width:100%;
+        margin-top:20px;
+    }
+
+    .menu ul li{
+        float:none;
+        padding:10px 0;
+        border-bottom:solid 1px gray;
+    } 
+
+    .menu ul li a{
+        text-align:center;
+    }
+
+}
+
+
+@media screen and (max-width: 768px) {
+
+.slider{
+    height:auto;
+    padding:20px 0; 
+}
+
+
+
+ .slider img {
+        float: none;
+        width: 80%;
+        display:block;
+    }
+
+    .slider .slider-caption {
+        float: none;
+        width: 100%;
+        margin-bottom: 20%;
+    }
+
+
+
+
+.about-site .about-box{
+    float:none;
+    width:100%;
+    margin-bottom:20px;
+}
+
+.recent-work .recent-box{
+    float:none;
+    width:100%;
+    margin-bottom:20px;
+}
+
+
+
+
+}
+
+
+
+
+

@@ -56,7 +56,7 @@ var TxtType = function(el, toRotate, period) {
         document.body.appendChild(css);
     };
 
-//counter
+//counter\
 
 (function($) {
 		"use strict";

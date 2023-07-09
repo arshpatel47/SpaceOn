@@ -3,7 +3,7 @@
 \*-----------------------------------*/
 
 /**
- * copyright 2022 codewithsadee
+ * copyright 2023 patelarsh
  */
 
 
@@ -291,7 +291,10 @@ body { background: var(--white); }
 
 .hero .btn { margin-inline: auto; }
 
-
+.btn-primary a {
+  text-decoration: none;
+  color: white;
+}
 
 
 
